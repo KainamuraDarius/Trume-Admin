@@ -1,0 +1,5 @@
+# Server-specific settings and secrets (copy config.example.php to config.php)
+config.php
+
+# Local tooling
+.DS_Store
